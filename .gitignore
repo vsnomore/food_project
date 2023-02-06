@@ -6,9 +6,9 @@
 
 # production
 /build
-/dist
 
 # misc
+.gitignore
 .DS_Store
 .env.local
 .env.development.local
